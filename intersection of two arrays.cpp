@@ -22,7 +22,6 @@ void getIntersection(int a[], int n, int b[], int m)
              << " "; 
 }
 
-// Driver Code
 int main()
 {
 	int a[9] = { 1, 2, 5, 6, 2, 3, 5, 7, 3 };
@@ -31,5 +30,4 @@ int main()
 	getIntersection(a, 9, b, 10);
 }
 
-// contributed by Anirban Chand
 
